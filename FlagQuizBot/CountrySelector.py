@@ -958,7 +958,7 @@ def GetCountry():
             "country": "Zimbabwe"
         }
     ]
-    x = random.randint(1,239)
+    x = random.randint(1,237)
     img = 'country-flags-main\Flag Images\\' + country_codes[x]['code'].lower()+'.png'
     country = country_codes[x]["country"]
     return img,country
