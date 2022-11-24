@@ -7,4 +7,5 @@ This bot was originally created as a game for my friends and I.
 ## Prerequisites
 Requires 'Discord' module to run.
 ## Instructions
-Add your bot token to the QuizBot.py file where indiciated and run the program.
+Add your bot token to the QuizBot.py file where indicated and run the program.
+Use !play in the chat to get a question!
