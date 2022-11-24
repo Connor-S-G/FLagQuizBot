@@ -698,10 +698,6 @@ def GetCountry():
             "country": "Poland"
         },
         {
-            "code": "PM",
-            "country": "Saint Pierre and Miquelon"
-        },
-        {
             "code": "PN",
             "country": "Pitcairn"
         },
@@ -728,10 +724,6 @@ def GetCountry():
         {
             "code": "QA",
             "country": "Qatar"
-        },
-        {
-            "code": "RE",
-            "country": "Réunion"
         },
         {
             "code": "RO",
